@@ -1,3 +1,6 @@
+
+NB: This is a fork of OpenTerm meant to improve on its core features and continuation of bugfixes for the code. 
+
 <p align="center">
 <img src="readme-resources/hero.png" alt="Terminal for iOS">
 </p>
