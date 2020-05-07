@@ -1,6 +1,3 @@
-
-NB: This is a fork of OpenTerm meant to improve on its core features and continuation of bugfixes for the code. 
-
 <p align="center">
 <img src="readme-resources/hero.png" alt="Terminal for iOS">
 </p>
@@ -62,3 +59,7 @@ To run on a device, you will have to run `resign-frameworks.sh`, but first chang
 OpenTerm is available under the GPLv2 (or later) and the MPLv2 license.
 
 See [COPYING](./COPYING) for more license info.
+
+## P.S.
+
+OpenTerm is no longer avaliable on the App Store (see his [tweet](https://twitter.com/LouisDhauwe/status/1052003267612299266?s=20)). As an alternative, I have forked his (now unmaintained) repo and added a new release containing a unsigned IPA of OpenTerm. You can use [Cydia Impactor](cydiaimpactor.com) or the excellent [AltStore](altstore.io) to sideload it.
