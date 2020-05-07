@@ -21,8 +21,7 @@
 </p>
 
 ## About
-OpenTerm is a sandboxed command line interface for iOS. 
-
+OpenTerm is a sandboxed command line interface for iOS.
 
 Commands included:
 
@@ -71,3 +70,6 @@ itms-services://?action=download-manifest&amp;url=https://github.com/onyxware/op
 (Safari won't let you click on the link directly, unfortunately.)
 
 Alternatively, you can download the IPA itself from the `Releases` page.
+
+You can also try this button (may or may not work):
+<a href="itms-services://?action=download-manifest&amp;url=https://github.com/onyxware/openterm/raw/master/manifest.plist"><img src="itms-services://?action=download-manifest&amp;url=https://github.com/onyxware/openterm/raw/master/manifest.plist" alt="OTA Install"/></a>
