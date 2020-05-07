@@ -67,6 +67,6 @@ You can install OpenTerm directly to your device by pasting this in Safari:
 ```
 itms-services://?action=download-manifest&amp;url=https://github.com/onyxware/openterm/raw/master/manifest.plist
 ```
-(Safari won't let you click on the link directly, unfortunately.)
+(Github sanitizes URLs with weird schemas, so you can't directly click on the link.)
 
 Alternatively, you can download the IPA itself from the `Releases` page.
