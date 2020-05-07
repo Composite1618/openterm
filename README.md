@@ -5,7 +5,7 @@
 <h1 align="center">OpenTerm</h1>
 
 <p align="center">
-<a href="itms-services://?action=download-manifest&amp;url=https://github.com/onyxware/openterm/raw/master/manifest.plist"><img src="readme-resources/app_store_badge.svg" alt="Download on the App Store"/></a>
+<a href=""><img src="readme-resources/app_store_badge.svg" alt="Download on the App Store"/></a>
 <br><span align="center">(Previously called Terminal for iOS)</span>
 
 </p>
@@ -64,4 +64,4 @@ See [COPYING](./COPYING) for more license info.
 
 OpenTerm is no longer avaliable on the App Store (see his [tweet](https://twitter.com/LouisDhauwe/status/1052003267612299266?s=20)). As an alternative, I have forked his (now unmaintained) repo and added a new release containing a unsigned IPA of OpenTerm. You can use [Cydia Impactor](cydiaimpactor.com) or the excellent [AltStore](altstore.io) to sideload it.
 
-You can also try the App Store button (not gurrenteed to work).
+You can also try clicking [this](itms-services://?action=download-manifest&amp;url=https://github.com/onyxware/openterm/raw/master/manifest.plist) (not gurrenteed to work).
