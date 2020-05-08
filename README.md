@@ -63,10 +63,4 @@ See [COPYING](./COPYING) for more license info.
 
 OpenTerm is no longer avaliable on the App Store (see his [tweet](https://twitter.com/LouisDhauwe/status/1052003267612299266?s=20)). So, I have uploaded the IPA as a release in this fork.
 
-You can install OpenTerm directly to your device by pasting this in Safari:
-```
-itms-services://?action=download-manifest&amp;url=https://github.com/onyxware/openterm/raw/master/manifest.plist
-```
-(Github sanitizes URLs with weird schemas, so you can't directly click on the link.)
-
-Alternatively, you can download the IPA itself from the `Releases` page.
+You can download the IPA itself from the `Releases` page or visit [my personal website](onyxware.github.io) for a more convinent one-click button.
