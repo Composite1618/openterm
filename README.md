@@ -63,4 +63,4 @@ See [COPYING](./COPYING) for more license info.
 
 OpenTerm is no longer avaliable on the App Store (see his [tweet](https://twitter.com/LouisDhauwe/status/1052003267612299266?s=20)). So, I have uploaded the IPA as a release in this fork.
 
-You can download the IPA itself from the `Releases` page or visit [my personal website](https://onyxware.github.io) for a more convinent one-click button.
+You can download the IPA itself from the `Releases` page or visit [my personal website](https://onyxware.github.io/projects.html) for a more convinent one-click button.
